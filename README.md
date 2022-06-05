@@ -1,2 +1,2 @@
 # The4thEye
-This is a 4-dimensional object rendering and rotation engine. (Three.js)
+This is a engine to rendering and rotate 4-dimensional objects.
