@@ -1,2 +1,2 @@
 # The4thEye
-This is a engine to rendering and rotate 4-dimensional objects.
+This is a engine to render and rotate 4-dimensional objects.
